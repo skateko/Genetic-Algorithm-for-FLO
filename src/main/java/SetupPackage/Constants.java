@@ -4,7 +4,7 @@ import DataLoaderPackage.JSONloader;
 import org.json.simple.JSONArray;
 
 public class Constants {
-    public static final String PATH = "D:\\SEMESTR 6\\SZTUCZNA INTELIGENCJA\\ZADANIE 1\\ETAP 1\\ZAD1_ETAP1_OZOG_JAKUB\\FLOGeneticAlgorithmMaven\\src\\main\\resources\\";
+    public static final String PATH = "FLOGeneticAlgorithmMaven\\src\\main\\resources\\";
     public static final String SOURCE = "source";
     public static final String DEST = "dest";
     public static final String COST = "cost";
